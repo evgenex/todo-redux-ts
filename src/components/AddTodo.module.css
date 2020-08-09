@@ -1,0 +1,12 @@
+.paper {
+    display: flex;
+    padding: 1rem;
+    justify-content: space-between;
+}
+.input {
+    flex-grow: 1;
+}
+.button {
+    margin-left: 1rem;
+}
+
